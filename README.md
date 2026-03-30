@@ -1,24 +1,27 @@
 <h1 align="center">Hi 👋, I'm Hitesh Shimpi</h1>
-<h3 align="center">Aspiring Software Engineer | DSA & Development Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer | DSA & Android Development Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Pursuing **Bachelor of Engineering (ENTC)**  
 - 🏫 Studying at **International Institute of Information Technology, Pune**  
-- 💡 Interested in **Software Development, Networking & Cybersecurity**  
+- 💡 Interested in **Software Development, Android, Networking & Cybersecurity**  
+- 📱 Exploring **Android Development using Kotlin**  
 - 🎯 Currently aiming for **Internships & Placements**  
-- 📚 Actively learning and building real-world projects  
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🧠 Languages
-`C` `C++` `Java` `Python`
+`C` `C++` `Java` `Python` `Kotlin`
 
 ### 🎨 Frontend
 `HTML` `CSS` `JavaScript`
+
+### 📱 Mobile Development
+`Android Studio` `Kotlin`
 
 ### 🗄️ Database
 `MySQL`
@@ -36,21 +39,21 @@
 ### 🌾 KrishiConnect – Agriculture Marketplace
 - Web-based platform connecting **farmers, buyers, merchants, and government**
 - Built using **HTML, CSS, JavaScript & MySQL**
-- Implemented **CRUD operations + database constraints** for efficient data handling
+- Implemented **CRUD operations + database constraints**
 
 ---
 
 ### ☀️ Solar Water Purifier System
 - Developed a **solar-powered water purification system**
 - Worked on **physical assembly & filtration design**
-- Focused on **cost-effective and efficient purification**
+- Focused on **cost-effective purification**
 
 ---
 
 ### 💧 Smart Water Management System (Idea Pitch)
 - Proposed an **IoT-based water monitoring system for hostels**
-- Aimed at **sustainability & resource optimization**
-- Presented idea in multiple **events & competitions**
+- Focused on **sustainability & resource optimization**
+- Presented at multiple **events & competitions**
 
 ---
 
@@ -85,4 +88,4 @@
 ---
 
 ## ⚡ Fun Fact
-I enjoy combining **hardware + software + real-world problem solving** 🚀
+I enjoy building systems that combine **hardware + software + real-world problem solving** 🚀
