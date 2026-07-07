@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Hitesh Shimpi
+# Hi, I'm Hitesh Shimpi
 
 ### 💻 Aspiring Software Engineer | Android Developer | DSA Enthusiast
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43,100:2C5364&height=220&section=header&text=Welcome!&fontSize=45&fontColor=ffffff"/>
+
 
 <img src="https://komarev.com/ghpvc/?username=Hitesh240ii&label=Profile%20Views&color=0e75b6&style=flat" />
 
@@ -120,47 +120,20 @@ IoT-based concept for monitoring hostel water usage and reducing wastage.
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hitesh240ii&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh240ii&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 Contribution Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Hitesh240ii&theme=tokyonight&hide_border=true"/>
+<img src = "https://streak-stats.demolab.com/?user=Hitesh240ii"/>
 
 </p>
 
 ---
 
-# 📊 Activity Graph
 
-<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh240ii&theme=tokyo-night"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hitesh240ii&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
 
 # 🌱 Currently Learning
 
