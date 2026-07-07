@@ -1,91 +1,207 @@
-<h1 align="center">Hi 👋, I'm Hitesh Shimpi</h1>
-<h3 align="center">Aspiring Software Engineer | DSA & Android Development Enthusiast</h3>
+<div align="center">
+
+# Hi 👋, I'm Hitesh Shimpi
+
+### 💻 Aspiring Software Engineer | Android Developer | DSA Enthusiast
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43,100:2C5364&height=220&section=header&text=Welcome!&fontSize=45&fontColor=ffffff"/>
+
+<img src="https://komarev.com/ghpvc/?username=Hitesh240ii&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 🚀 About Me
-- 🎓 Pursuing **Bachelor of Engineering (ENTC)**  
-- 🏫 Studying at **International Institute of Information Technology, Pune**  
-- 💡 Interested in **Software Development, Android, Networking & Cybersecurity**  
-- 📱 Exploring **Android Development using Kotlin**  
-- 🎯 Currently aiming for **Internships & Placements**  
+# 🚀 About Me
+
+🎓 Second Year B.E. (Electronics & Telecommunication)
+
+🏫 International Institute of Information Technology, Pune
+
+💻 Passionate about Software Engineering & Problem Solving
+
+📱 Learning Android Development using Kotlin
+
+🌱 Currently improving Data Structures & Algorithms
+
+⚡ Interested in Android Development, Networking and Cybersecurity
+
+🎯 Goal: Secure an Internship at a Product-Based Company
 
 ---
 
-## 💻 Tech Stack
+# 🛠 Tech Stack
 
-### 🧠 Languages
-`C` `C++` `Java` `Python` `Kotlin`
+### Languages
 
-### 🎨 Frontend
-`HTML` `CSS` `JavaScript`
-
-### 📱 Mobile Development
-`Android Studio` `Kotlin`
-
-### 🗄️ Database
-`MySQL`
-
-### ⚙️ Tools & Technologies
-`Git` `GitHub` `VS Code`  
-`Wireshark` `Networking`  
-`Scilab` `MATLAB`  
-`Cybersecurity Basics`
-
----
-
-## 🚀 Projects
-
-### 🌾 KrishiConnect – Agriculture Marketplace
-- Web-based platform connecting **farmers, buyers, merchants, and government**
-- Built using **HTML, CSS, JavaScript & MySQL**
-- Implemented **CRUD operations + database constraints**
-
----
-
-### ☀️ Solar Water Purifier System
-- Developed a **solar-powered water purification system**
-- Worked on **physical assembly & filtration design**
-- Focused on **cost-effective purification**
-
----
-
-### 💧 Smart Water Management System (Idea Pitch)
-- Proposed an **IoT-based water monitoring system for hostels**
-- Focused on **sustainability & resource optimization**
-- Presented at multiple **events & competitions**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hitesh240ii&show_icons=true&theme=tokyonight" />
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,kotlin"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hitesh240ii&theme=tokyonight" />
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+### Other Technologies
+
+- Computer Networks
+- Wireshark
+- MATLAB
+- Scilab
+- Cybersecurity Basics
+
+---
+
+# 🚀 Featured Projects
+
+## 🌾 KrishiConnect
+
+Blockchain-inspired Agriculture Marketplace connecting Farmers, Buyers, Merchants and Government Officials.
+
+**Tech Used**
+
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+### Features
+
+- User Authentication
+- CRUD Operations
+- Database Integration
+- Role Based Dashboard
+
+---
+
+## ☀️ Solar Water Purifier
+
+Solar-powered water purification system focused on affordable and sustainable water treatment.
+
+### Features
+
+- Solar Powered
+- Multi-stage Filtration
+- Low Cost Design
+- Sustainable Solution
+
+---
+
+## 💧 Smart Water Management System
+
+IoT-based concept for monitoring hostel water usage and reducing wastage.
+
+### Highlights
+
+- Water Monitoring
+- Sustainability
+- Resource Optimization
+- Event Presentation Project
+
+---
+
+# 📈 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh240ii&layout=compact&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hitesh240ii&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh240ii&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Hitesh240ii&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh240ii&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hitesh240ii&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Android Development
+- Kotlin
+- Data Structures & Algorithms
+- Computer Networks
+- Cybersecurity
+
+---
+
+# 📫 Connect With Me
 
 <p align="left">
+
+<a href="https://github.com/Hitesh240ii">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 <a href="https://www.linkedin.com/in/hitesh-shimpi-b8432a303">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/shimpi.hitesh_">
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
+
 </p>
 
 ---
 
-## ⚡ Fun Fact
-I enjoy building systems that combine **hardware + software + real-world problem solving** 🚀
+# 💡 Quote
+
+> *"Consistency beats intensity. One commit every day is better than 100 commits in one day."*
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
