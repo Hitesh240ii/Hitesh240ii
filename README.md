@@ -5,9 +5,6 @@
 ### 💻 Aspiring Software Engineer | Android Developer | DSA Enthusiast
 
 
-
-<img src="https://komarev.com/ghpvc/?username=Hitesh240ii&label=Profile%20Views&color=0e75b6&style=flat" />
-
 </div>
 
 ---
