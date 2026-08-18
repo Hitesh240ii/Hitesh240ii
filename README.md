@@ -1,9 +1,22 @@
 <div align="center">
 
-# Hi, I'm Hitesh Shimpi
+# 👋 Hi, I'm Hitesh Shimpi
 
-### 💻 Aspiring Software Engineer | Android Developer | DSA Enthusiast
+### 💻 Aspiring Software Engineer | AI & Backend Developer | DSA Enthusiast
 
+<p>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-black?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Hitesh240ii">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hitesh-shimpi-b8432a303">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+📍 Pune, India   |   🎓 Final Year ENTC Engineering Student
 
 </div>
 
@@ -11,140 +24,214 @@
 
 # 🚀 About Me
 
-🎓 Second Year B.E. (Electronics & Telecommunication)
+I'm **Hitesh Shimpi**, a final-year Electronics & Telecommunication Engineering student passionate about building software, solving problems, and exploring AI-powered applications.
 
-🏫 International Institute of Information Technology, Pune
+* 💻 Interested in **Software Engineering, Backend Development & AI**
+* 🐍 Building applications with **Python**
+* ⚡ Working with **FastAPI & REST APIs**
+* 🤖 Exploring **LLM-powered applications and AI Engineering**
+* 🧠 Improving **Data Structures & Algorithms**
+* 🌐 Learning **Web Development & System Design**
+* 🔐 Interested in **Computer Networks & Cybersecurity**
+* 📱 Exploring **Android Development with Kotlin**
+* 🎯 Actively looking for **Software Engineering / AI / Backend opportunities**
 
-💻 Passionate about Software Engineering & Problem Solving
+### 🌐 Explore My Work
 
-📱 Learning Android Development using Kotlin
+> **My portfolio brings together my projects, skills, experience and technical journey.**
 
-🌱 Currently improving Data Structures & Algorithms
-
-⚡ Interested in Android Development, Networking and Cybersecurity
-
-🎯 Goal: Secure an Internship at a Product-Based Company
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/🚀%20OPEN%20MY%20PORTFOLIO-Visit%20Website-000000?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,kotlin"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,kotlin"/>
 </p>
 
-### Frontend
+### ⚡ Backend & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi"/>
+</p>
+
+* REST API Development
+* FastAPI
+* Pydantic
+* LLM / AI Application Development
+* Prompt Engineering
+* API Integration
+
+### 🌐 Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
-### Mobile Development
+### 📱 Mobile Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin"/>
 </p>
 
-### Database
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-### Tools
+### 🔧 Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
-### Other Technologies
-
-- Computer Networks
-- Wireshark
-- MATLAB
-- Scilab
-- Cybersecurity Basics
+* Git & GitHub
+* REST APIs
+* Computer Networks
+* Wireshark
+* MATLAB
+* Scilab
+* Cybersecurity Fundamentals
 
 ---
 
 # 🚀 Featured Projects
 
+## 🤖 AI Portfolio & Personal Chatbot
+
+An AI-powered portfolio that allows visitors to explore my background, skills and projects through an interactive chatbot.
+
+### Highlights
+
+* AI-powered conversational interface
+* Personal knowledge-based responses
+* FastAPI backend
+* LLM integration
+* REST API communication
+* Deployed backend
+
+**Tech:** `Python` `FastAPI` `LLM` `REST API` `JavaScript`
+
+🌐 **[View Portfolio](YOUR_PORTFOLIO_URL)**
+
+---
+
 ## 🌾 KrishiConnect
 
-Blockchain-inspired Agriculture Marketplace connecting Farmers, Buyers, Merchants and Government Officials.
+A blockchain-inspired agricultural marketplace designed to connect **Farmers, Buyers, Merchants and Government Officials**.
 
-**Tech Used**
+### Highlights
 
-- HTML
-- CSS
-- JavaScript
-- MySQL
+* Role-based authentication
+* Farmer & merchant dashboards
+* CRUD operations
+* Database integration
+* Agricultural marketplace concept
 
-### Features
-
-- User Authentication
-- CRUD Operations
-- Database Integration
-- Role Based Dashboard
+**Tech:** `HTML` `CSS` `JavaScript` `MySQL`
 
 ---
 
 ## ☀️ Solar Water Purifier
 
-Solar-powered water purification system focused on affordable and sustainable water treatment.
+A solar-powered water purification system focused on creating an affordable and sustainable solution for water treatment.
 
-### Features
+### Highlights
 
-- Solar Powered
-- Multi-stage Filtration
-- Low Cost Design
-- Sustainable Solution
+* Solar-powered operation
+* Multi-stage filtration
+* Low-cost design
+* Sustainable water treatment approach
+
+**Tech:** `Solar Energy` `ESP32` `Sensors` `Embedded Systems`
 
 ---
 
 ## 💧 Smart Water Management System
 
-IoT-based concept for monitoring hostel water usage and reducing wastage.
+An IoT-based concept designed to monitor hostel water consumption and reduce unnecessary water wastage.
 
 ### Highlights
 
-- Water Monitoring
-- Sustainability
-- Resource Optimization
-- Event Presentation Project
+* Water usage monitoring
+* Resource optimization
+* Sustainability-focused solution
+* Event presentation project
 
 ---
 
+# 📚 Currently Learning
 
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src = "https://streak-stats.demolab.com/?user=Hitesh240ii"/>
-
-</p>
+```text
+Data Structures & Algorithms
+        ↓
+Backend Development
+        ↓
+FastAPI & REST APIs
+        ↓
+AI / LLM Applications
+        ↓
+System Design
+        ↓
+Software Engineering
+```
 
 ---
 
+# 📊 GitHub Stats
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Hitesh240ii&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hitesh240ii&theme=tokyonight&hide_border=true"/>
 
-# 🌱 Currently Learning
+</div>
 
-- Android Development
-- Kotlin
-- Data Structures & Algorithms
-- Computer Networks
-- Cybersecurity
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hitesh240ii&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Career Focus
+
+I'm currently focused on becoming a strong **Software Engineer** by combining:
+
+**Problem Solving + Backend Engineering + AI + System Design**
+
+I'm particularly interested in opportunities involving:
+
+* Software Engineering
+* Backend Development
+* AI Engineering
+* Python Development
+* API Development
+* Data Structures & Algorithms
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 <a href="https://github.com/Hitesh240ii">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -162,9 +249,11 @@ IoT-based concept for monitoring hostel water usage and reducing wastage.
 
 ---
 
-# 💡 Quote
+# 💡 Philosophy
 
-> *"Consistency beats intensity. One commit every day is better than 100 commits in one day."*
+> **"Build. Break. Learn. Repeat."**
+
+I'm continuously learning, building projects and improving one step at a time.
 
 ---
 
@@ -172,6 +261,6 @@ IoT-based concept for monitoring hostel water usage and reducing wastage.
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
+**Explore my work → [Portfolio](https://portfolio-livid-five-46.vercel.app/)**
 
 </div>
